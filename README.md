@@ -63,6 +63,7 @@ The design includes mechanisms to maintain correct instruction execution in a pi
 - Pipeline flushing to handle control-flow changes.
 - Control-signal propagation for custom MAC operations.
 
+![RISC-V Pipelined Processor with Custom MAC Unit](riscv_pipeline_mac.png)
 
 ## Low-Power Optimization Techniques
 
